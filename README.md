@@ -19,7 +19,6 @@ Niestandardowy motyw WordPress stworzony z myślą o stronie poświęconej gotow
 
 ## 🛠️ Technologie
 
-- HTML5
 - CSS3
 - PHP
 - JavaScript (ES6+)
