@@ -9,7 +9,7 @@ Niestandardowy motyw WordPress stworzony z myślą o stronie poświęconej gotow
 - Obsługa menu WordPress i widgetów
 - Stylizowane wpisy na blogu z przepisami
 - Lekki, szybki i przyjazny dla SEO kod
-- Gotowy do rozszerzenia (np. o ACF lub wtyczkę do przepisów)
+- Gotowy do rozszerzenia 
 
 ## 🔧 Instalacja
 
