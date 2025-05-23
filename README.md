@@ -21,7 +21,7 @@ Niestandardowy motyw WordPress stworzony z myślą o stronie poświęconej gotow
 
 - CSS3
 - PHP
-- JavaScript (ES6+)
+- JavaScript 
 - WordPress
 
 ## 🧑‍🍳 Zastosowanie
